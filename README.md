@@ -1,2 +1,1 @@
-# landing_guitar
-# landing_guitar
+## Пример лендинга
